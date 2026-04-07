@@ -1,0 +1,8 @@
+﻿"Outer Circle Dia"= 5.25
+"Long X Length"= 4.15
+"Short X Length"= 1.2
+"Fillet Rad"= 0.3
+"Keycap Height"= 10
+"X Chamfer"= 0.1
+"Outer Fillet"= 0.5
+"Keyswitch Hole Length"= 14.1
